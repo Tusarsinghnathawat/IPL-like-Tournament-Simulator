@@ -4,4 +4,3 @@ IPL like Tournment Design
 - User input for team creation and match setup
 - Ball-by-ball commentary and match summary
 - Persistent player statistics tracking
-- 
